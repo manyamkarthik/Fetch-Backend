@@ -63,8 +63,7 @@ If you no longer need the image:
 `docker rmi karthikmanyam1/fetch-app:latest`
 
 ## Technical Details
-- **Language**: Go (preferred for this project)  
-- **API Definition**: OpenAPI Specification (`api.yml` file included)  
+- **API Definition**: OpenAPI Specification
 - **Port**: 8080  
 - **Storage**: In-memory (data is lost when the container stops or is removed)  
 
